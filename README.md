@@ -1,5 +1,10 @@
 # TrashMe
-## Overview
+
+## Wireframes
+<img width="796" alt="Screen Shot 2022-10-29 at 6 23 26 PM" src="https://user-images.githubusercontent.com/97801601/198854566-87aeaa06-180b-47f0-ad4b-8e5f1f0b56de.png">
+
+### Digital Wireframes & Mockups
+
 ### Description
 The trash tracker 
 - TrashMe shows user the list of thrown trash by college students, categorizes the trash and show them the proper way to dispose them.
