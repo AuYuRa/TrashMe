@@ -1,9 +1,12 @@
 # TrashMe
 
 ## Wireframes
-<img width="796" alt="Screen Shot 2022-10-29 at 6 23 26 PM" src="https://user-images.githubusercontent.com/97801601/198854566-87aeaa06-180b-47f0-ad4b-8e5f1f0b56de.png">
+<img width="790" alt="Screen Shot 2022-10-29 at 6 56 41 PM" src="https://user-images.githubusercontent.com/97801601/198855899-3b9a2cec-fb02-49dd-8975-becfcaba5492.png">
 
-### Digital Wireframes & Mockups
+
+### Figma
+<img width="644" alt="Screen Shot 2022-10-29 at 7 16 18 PM" src="https://user-images.githubusercontent.com/97801601/198855904-8b4f7657-93e2-4c06-923d-f138601b63ce.png">
+
 
 ### Description
 The trash tracker 
