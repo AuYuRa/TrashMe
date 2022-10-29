@@ -10,11 +10,11 @@ The trash tracker
 - TrashMe shows user the list of thrown trash by college students, categorizes the trash and show them the proper way to dispose them.
 
 ### Inspiration
--Have you ever wondered whether you should throw your cupcake in a oaoer cup in food bin or recycle bin? You see multiple colored trashbins but have no idea what each trash of them are used for throwing hat trash and where does those trash go to at the end. As an internationals student, we all always struggled with this basic information in the US. Hence, we bring our app "TrashMe" who would be able to guide you and make the process easier for you.
+Have you ever wondered whether you should throw your cupcake in a paper cup in food bin or recycle bin? You see multiple colored trashbins but have no idea what each of them are used for throwing that trash and where does those trash go to at the end. As international students, we always struggled with this basic information in the US. Hence, we bring our app "TrashMe" who would be able to guide you and make the process easier for you.
 
 ### Web Evaluation
 
-- **Category:** Life Style
+- **Category:** Environmental awareness, Sustainability, Waste Management, Life Style
 - **Web:** Web appication (first experience), may develop mobile application further
 - **Story:** User can scroll through the trash list thrown by college students and also categories of different trashes. They can search  a particular trash. On clicking to that particular one, user would be able to see the category of the particular trash. User on clicking the category would get the information of where they should be throwing the trash or how they would be managing the waste they make.
 - **Market:** Anyone who is an international student or a cllege student who isn't known about the composting or 3R techniques of waste management in the US would be able to use it to get the inforation and manage their trash in a right way. They can even see the most thrown wastes by students and be aware to decrease the waste they might make as a student.
