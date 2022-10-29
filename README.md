@@ -5,7 +5,7 @@
 
 
 ### Figma
-<img width="644" alt="Screen Shot 2022-10-29 at 7 16 18 PM" src="https://user-images.githubusercontent.com/97801601/198855904-8b4f7657-93e2-4c06-923d-f138601b63ce.png">
+<img width="643" alt="Screen Shot 2022-10-29 at 7 18 32 PM" src="https://user-images.githubusercontent.com/97801601/198855959-cdf99610-52a2-44ac-9bef-ace6f9c46dbf.png">
 
 
 ### Description
