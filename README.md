@@ -13,7 +13,7 @@ The trash tracker
 - TrashMe shows user the list of thrown trash by college students, categorizes the trash and show them the proper way to dispose them.
 
 ### Inspiration
-Have you ever wondered whether you should throw your cupcake in a paper cup in food bin or recycle bin? You see multiple colored trashbins but have no idea what each of them are used for throwing that trash and where does those trash go to at the end. As international students, we always struggled with this basic information in the US. Hence, we bring our app "TrashMe" who would be able to guide you and make the process easier for you.
+Have you ever wondered whether you should throw your cupcake in a paper cup in the food bin or recycle bin? You see multiple colored trash bins but have no idea what each of them is used for throwing that trash and where the trash goes at the end. As international students, we always struggled with this basic information in the US. Hence, we bring our app "TrashMe" which would be able to guide you and make the process easier for you.
 
 ### Web Evaluation
 
@@ -42,8 +42,8 @@ Have you ever wondered whether you should throw your cupcake in a paper cup in f
 **Planned future features**
 * Launch a mobile application.
 * User can create their own account.
-* User can see their most searched trash on their account as a record.
-* User can read news articles about sustaianlity and waste managements.
+* Users can see the most searched trash on their account as a record.
+* User can read news articles about sustainability and waste management.
 
 ### How we built it
 
