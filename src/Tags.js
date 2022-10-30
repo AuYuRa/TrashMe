@@ -1,9 +1,9 @@
 export const TAGS = {
-  "Food": {
+  "Solid food": {
     id: 1,
     trash_bin: 'Compost Bin',
     bin_image: 'https://wgbh.brightspotcdn.com/dims4/default/b776eef/2147483647/strip/true/crop/1943x1536+52+0/resize/525x415!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F53%2Fb3%2F3ca37fae4b4a8230c6700f756b6e%2Fboston-compost-bin.jpg',
-    fact: 'You can throw your food waste to composting bin for composting. But you cannot compost: cooked food, fish, meat or dairy products.'
+    fact: 'You can put your solid food waste in the composting bin. Be extra careful when composting animal products like meat, bone, and dairy, because they genereally attract pests and their high fat content slow down the composting process.'
   },
   "Clothing":
   {

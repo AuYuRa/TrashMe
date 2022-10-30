@@ -2,7 +2,7 @@ export const items = [
   {
     id: 1,
     name: 'Mask',
-    tag: ['Fabric'],
+    tag: ['Fabric', 'Hazardous'],
     image: 'http://guide.medicalexpo.com/wp-content/uploads/sites/9/2020/02/SNAG-0026.png'
   },
   {
@@ -20,13 +20,13 @@ export const items = [
   {
     id: 4,
     name: 'Bagel bag',
-    tag: ['Paper'],
+    tag: ['Solid food', 'Paper'],
     image: 'http://www.bagelbakerygainesville.com/wp-content/uploads/2016/05/iStock_000071768317_Large-1.jpg'
   },
   {
     id: 5,
     name: 'Snack/chip bag',
-    tag: ['Plastic'],
+    tag: ['Solid food', 'Plastic'],
     image: 'https://media.istockphoto.com/photos/chips-spilling-out-of-an-open-bag-picture-id174634598?k=20&m=174634598&s=612x612&w=0&h=zy-1EkgCcuUuXiuA64kGhqLwK8LR6cSMA6u8A9xIPjE='
   },
   {
