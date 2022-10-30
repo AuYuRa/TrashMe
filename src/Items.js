@@ -2,19 +2,20 @@ export const items = [
   {
     id: 1,
     name: 'Mask',
-    tag: ['Fabric', 'Hazardous'],
-    image: 'http://guide.medicalexpo.com/wp-content/uploads/sites/9/2020/02/SNAG-0026.png'
+    tag: ['Non-recyclable'],
+    image: 'http://guide.medicalexpo.com/wp-content/uploads/sites/9/2020/02/SNAG-0026.png',
+    components: ''
   },
   {
     id: 2,
     name: 'Coffee cup',
-    tag: ['Liquid', 'Plastic', 'Paper'],
+    tag: ['Liquid', 'Plastic', 'Paper', 'Non-recyclable'],
     image: 'https://images.fineartamerica.com/images-medium-large-5/coffee-cup-isolated-studiocasper.jpg'
   },
   {
     id: 3,
     name: 'Paper Towel',
-    tag: ['Toiletries'],
+    tag: ['Paper', 'Non-recyclable'],
     image: 'https://images.thdstatic.com/productImages/33b408e7-3314-4424-978b-9259a0252819/svn/georgia-pacific-commercial-paper-towels-gep26301-64_600.jpg'
   },
   {
@@ -32,7 +33,7 @@ export const items = [
   {
     id: 6,
     name: 'Carton box',
-    tag: ['Plastic'],
+    tag: ['Liquid', 'Non-recyclable'],
     image: 'https://img.uline.com/is/image/uline/c_g9_mobile_NoTxt?$BrowseHD$'
   },
   {
@@ -43,7 +44,7 @@ export const items = [
   },
   {
     id: 8,
-    name: 'Metal/aluminium can and tin',
+    name: 'Can and tin',
     tag: ['Metal'],
     image: 'https://www.wikihow.com/images/thumb/a/a7/Recycle-Metals-Step-3-Version-2.jpg/v4-460px-Recycle-Metals-Step-3-Version-2.jpg.webp'
   },

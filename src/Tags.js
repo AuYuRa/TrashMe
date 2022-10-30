@@ -5,7 +5,7 @@ export const TAGS = {
     bin_image: 'https://wgbh.brightspotcdn.com/dims4/default/b776eef/2147483647/strip/true/crop/1943x1536+52+0/resize/525x415!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F53%2Fb3%2F3ca37fae4b4a8230c6700f756b6e%2Fboston-compost-bin.jpg',
     fact: 'You can put your solid food waste in the composting bin. Be extra careful when composting animal products like meat, bone, and dairy, because they genereally attract pests and their high fat content slow down the composting process.'
   },
-  "Clothing":
+  "Fabric":
   {
     id: 2,
     trash_bin: "Donation Box",
@@ -25,14 +25,14 @@ export const TAGS = {
     id: 4,
     trash_bin:"Recycle Bin",
     bin_image: 'https://images.thdstatic.com/productImages/e74c180c-7ad9-4252-a3b9-48a18deaa238/svn/rubbermaid-recycling-bins-rcp295773blue-64_1000.jpg',
-    fact: "You can throw your paper waste to the recycling bin so that it can get recycled and reused."
+    fact: "Clean paper with long textile can be recycled if sorted properly."
   },
   "Plastic":
   {
     id: 5,
     trash_bin: "Recycle Bin",
     bin_image: 'https://images.thdstatic.com/productImages/e74c180c-7ad9-4252-a3b9-48a18deaa238/svn/rubbermaid-recycling-bins-rcp295773blue-64_1000.jpg',
-    fact: "You can give it to waste management company that collects used, dry and clean plastics, eg: Green Antz Builders."
+    fact: "Though this type of plastic is recyclable, less than 10% plastic disposed is recycled each year, so we should focus more on reduce asnd reuse rather than rely on recycle."
   },
   "Hazardous chemical":
   {
@@ -40,5 +40,19 @@ export const TAGS = {
     trash_bin: 'Hazardous Waste Disposal Bin',
     bin_image:"https://www.conserve-energy-future.com/wp-content/uploads/2015/05/hazardous-waste-disposal-e1430994120635.jpg",
     fact: "You can donate this items to manufacturers and retailers of computers, smart phones, TVs and other electronics for recycling."
-  }
+  },
+  "Liquid":
+  {
+    id: 7,
+    trash_bin: 'Liquid Disposal Bin, or Drain, or Trash Only',
+    bin_image:"https://us.glasdon.com/images/products/400/combo-tm-liquid-reservoir-recycling-bin-main.jpg",
+    fact: "Liquid can disturb the recycling process, create unpleasant odors in the trash bins, and attract pests. Therefore, we have to dispose liquid properly when sorting trash."
+  },
+  "Non-recyclable":
+  {
+    id: 7,
+    trash_bin: 'Trash only bin',
+    bin_image:"https://thumbs.dreamstime.com/b/garbage-can-do-not-recycle-symbol-concept-non-recyclable-items-materials-167273592.jpg",
+    fact: "These are for materials that cannot be recycled. They will end up in a landfill, which makes a lot of negative impact on the environment."
+  },
 };
