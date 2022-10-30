@@ -1,11 +1,10 @@
 # TrashMe
 
 ## Wireframes
-<img width="790" alt="Screen Shot 2022-10-29 at 6 56 41 PM" src="https://user-images.githubusercontent.com/97801601/198855899-3b9a2cec-fb02-49dd-8975-becfcaba5492.png">
 
+<img width="807" alt="Screen Shot 2022-10-30 at 2 15 19 AM" src="https://user-images.githubusercontent.com/97801601/198865296-fde610d5-5675-402e-9667-8e4ddcf8fda3.png">
 
 ### Figma
-<img width="626" alt="Screen Shot 2022-10-29 at 7 19 50 PM" src="https://user-images.githubusercontent.com/97801601/198855987-59224e02-7fe5-412b-8f1b-a497c3e83838.png">
 
 
 ### Description
