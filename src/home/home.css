@@ -1,0 +1,133 @@
+body{
+    margin:0;
+    /*background-image: url('./bgImage.png');*/
+    background-color: #FFF8F2;
+}
+.gif{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 445px;
+    top: 500px;
+
+}
+.circle1 {
+    position: absolute;
+    width: 395px;
+    height: 395px;
+    left: 1289px;
+    top: 21px;
+    
+    background: #FBD9D9;
+    border-radius: 50%;
+    /* display: inline-block; */
+}
+
+.circle2 {
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    left: 1184px;
+    top: 543px;
+    
+    background: #C0DFDF;
+    border-radius: 50%;
+    /* display: inline-block; */
+}
+
+.circle3 {
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    left: -3px;
+    top: 591px;
+    
+    background: #D9D9D9;
+    border-radius: 50%;
+    /* display: inline-block; */
+}
+
+.circle4 {
+    position: absolute;
+    width: 295px;
+    height: 295px;
+    left: -200px;
+    top: 258px;
+    
+    background: #D9D9D9;
+    border-radius: 50%;
+    /* display: inline-block; */
+}
+
+.Title{
+    position: absolute;
+    width: 1372px;
+    height: 200px;
+    left: -200px;
+    top: 150px;
+    
+    font-family: 'Katibeh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120px;
+    text-align: center;
+    
+    color: #8B61D3;
+}
+
+.sub{
+    position: absolute;
+    width: 793px;
+    height: 164px;
+    left: 230px;
+    top: 250px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #D3B08F;
+}
+
+.play-GIF-on-hover {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 600px;
+    top: 350px;
+
+    background-image: url('trashcan.gif') ;
+    background-size: 100%;
+    background-position: center center;
+}
+.play-GIF-on-hover:hover {
+    background-image: url('trashcan.gif');
+}
+
+.button{
+    position: absolute;
+    left: 500px;
+    top: 500px;
+
+    background-color: #b1f6b3; /* Green */
+    border: none;
+    border-radius: 25px;
+    color: #8e5baf;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+
+    box-shadow: 5px 5px rgb(248, 200, 127);
+
+    font-family: 'Inter'
+
+
+
+
+}
