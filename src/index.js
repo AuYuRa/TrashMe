@@ -11,6 +11,7 @@ import 'tachyons';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <header> TRASHME </header>
     <Router>
       <Routes>
         <Route path='/' element={<Home/>}/>
