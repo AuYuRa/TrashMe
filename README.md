@@ -10,11 +10,11 @@
 
 
 ### Description
-The trash tracker 
 - TrashMe shows the user the list of thrown trash by students, categorizes the trash, and shows them the proper way to dispose of them.
-- 
+
 ### Inspiration
-Have you ever wondered whether you should throw your cupcake in a paper cup in the food bin or recycle bin? You see multiple colored trash bins but have no idea what each of them is used for throwing that trash and where the trash goes at the end. As international students and avid environmental lovers, we always struggled with this basic information about waste management in the US. Hence, we bring our app "TrashMe" which would be able to guide you, make the process easier for you to manage your waste properly, and help the environment and us.n in the US. Hence, we bring our app "TrashMe" which would be able to guide you and make the process easier for you.
+
+Have you ever wondered whether you should throw your cupcake in a paper cup in the food bin or recycle bin? You see multiple colored trash bins but have no idea what each of them is used for throwing that trash and where the trash goes at the end. As international students and avid environmental lovers, we always struggled with this basic information about waste management when we first came to the US. Hence, we bring our app "TrashMe" which would be able to create awareness, guide users, make the process easier for them to manage their waste properly, and help the environment and us.
 
 ### Web Evaluation
 
@@ -32,25 +32,30 @@ Have you ever wondered whether you should throw your cupcake in a paper cup in t
 
 **Required Must-have Stories**
 
-- [ ] User can tap into the items page that is embedded in the main home page.
-- [ ] User can see the items page with list of trash that is in the order of most commonly thrown by college students.
-- [ ] User can see the search bar where they can search for the particular trash.
-- [ ] User can see the categories page where the different categories are listed.
-- [ ] User can tap in a particular item in items page and see their categories too.
-- [ ] User on clicking in a category would see the image on where it should be thrown and the information on whether it should be recycled or thrown to be compost etc.
+- [x] User can tap into the items page that is embedded in the main home page.
+- [x] User can see the search bar where they can search for the particular trash.
+- [x] User can tap in a particular item in items page and see their categories too.
+- [x] User on clicking in a category would see the image on where it should be thrown and the information on whether it should be recycled or thrown to be compost etc.
 
 
 **Planned future features**
 * Launch a mobile application.
 * User can create their own account.
-* Users can see the most searched trash on their account as a record.
+* User can see the most searched trash on their account as a record.
+* User can see a different category section for the wastes.
 * User can read news articles about sustainability and waste management.
 
 ### How we built it
 
 ### Technologies we used
+- React.js, Javascript, HTML/CSS, Figma, Azure
+
 
 ### What we are proud of
+
+- 
+
+
 
 ### Things we learned in the process:
 
