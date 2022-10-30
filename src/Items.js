@@ -8,7 +8,7 @@ export const items = [
   {
     id: 2,
     name: 'Coffee cup',
-    tag: ['Liquid', 'Plastic', 'Paper'], 
+    tag: ['Liquid', 'Plastic', 'Paper'],
     image: 'https://images.fineartamerica.com/images-medium-large-5/coffee-cup-isolated-studiocasper.jpg'
   },
   {
@@ -45,7 +45,7 @@ export const items = [
     id: 8,
     name: 'Metal/aluminium can and tin',
     tag: ['Metal'],
-    image: 'https://cdn.pixabay.com/photo/2020/04/01/10/27/box-4990721__340.jpg'
+    image: 'https://www.wikihow.com/images/thumb/a/a7/Recycle-Metals-Step-3-Version-2.jpg/v4-460px-Recycle-Metals-Step-3-Version-2.jpg.webp'
   },
   {
     id: 9,
