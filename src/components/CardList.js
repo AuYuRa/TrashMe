@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 const CardList = ({items}) => {
   const cardComponent = items.map((user, index) => {
-    return <Card key={index} id={items[index].id} name={items[index].name} />
+    return <Card key={index} id={items[index].id} name={items[index].name} tag={items[index].tag} />
   })
   return (
     <div>

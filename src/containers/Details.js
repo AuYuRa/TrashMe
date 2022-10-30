@@ -1,11 +1,13 @@
 import React from 'react';
+import { useLocation } from 'react-router-dom';
 
 
 const Details = () => {
+  const tag = useLocation().state
   return (
     <div>
       <header>
-        Trashme Details
+        {tag}
       </header>
     </div>
   );
