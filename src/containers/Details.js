@@ -3,11 +3,14 @@ import { useLocation } from 'react-router-dom';
 
 
 const Details = () => {
-  const tag = useLocation().state
+  const tags = useLocation().state
+  // console.log(tags) // Print out the make sure that tags is an array
   return (
     <div>
       <header>
-        {tag}
+        {tags.map((tag, index) => {
+          return <p> {tag} </p>
+        })}
       </header>
     </div>
   );
