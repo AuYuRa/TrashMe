@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import {Link} from 'react-router-dom';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import {items} from '../Items';
