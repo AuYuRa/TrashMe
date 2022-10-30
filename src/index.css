@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header{
+  background-color: #C5E2CC;
+  font-family: 'Katibeh';
+  font-size: 30px;
+  color: #7E5CC6;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
