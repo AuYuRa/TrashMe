@@ -6,6 +6,8 @@
 
 ### Figma
 
+<img width="830" alt="Screen Shot 2022-10-30 at 2 35 24 AM" src="https://user-images.githubusercontent.com/97801601/198865843-25cf6bb5-6469-44e8-a342-d2ecb0647e1f.png">
+
 
 ### Description
 The trash tracker 
