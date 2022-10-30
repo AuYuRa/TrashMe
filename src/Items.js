@@ -27,36 +27,36 @@ export const items = [
     id: 5,
     name: 'Snack/chip bag',
     tag: ['Plastic'],
-    image: ''
+    image: 'https://media.istockphoto.com/photos/chips-spilling-out-of-an-open-bag-picture-id174634598?k=20&m=174634598&s=612x612&w=0&h=zy-1EkgCcuUuXiuA64kGhqLwK8LR6cSMA6u8A9xIPjE='
   },
   {
     id: 6,
     name: 'Carton box',
     tag: ['Plastic'],
-    image: ''
+    image: 'https://img.uline.com/is/image/uline/c_g9_mobile_NoTxt?$BrowseHD$'
   },
   {
     id: 7,
     name: 'Notebook paper',
     tag: ['Paper'],
-    image: ''
+    image: 'https://m.media-amazon.com/images/I/31Dn-3IT1iL._AC_SY580_.jpg'
   },
   {
     id: 8,
     name: 'Metal/aluminium can and tin',
     tag: ['Metal'],
-    image: ''
+    image: 'https://cdn.pixabay.com/photo/2020/04/01/10/27/box-4990721__340.jpg'
   },
   {
     id: 9,
     name: 'Chewing gum',
     tag: ['Plastic'],
-    image: ''
+    image: 'https://media.istockphoto.com/photos/chewed-gum-picture-id1080504926?k=20&m=1080504926&s=170667a&w=0&h=xiEVjBWT1IagfvaEHmfygKj1snz4k_rgVoeldnqH2D4='
   },
   {
     id: 10,
     name: 'Battery',
     tag: ['Hazardous chemical'],
-    image: ''
+    image: 'https://m.media-amazon.com/images/I/21I+MnBGtML._AC_SY780_.jpg'
   },
 ];
