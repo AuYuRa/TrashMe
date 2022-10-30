@@ -3,18 +3,6 @@
 ### Presentation with Demo: "https://youtu.be/-fl9imuj8JE"
 ### Web application link: "https://green-stone-0f2dc3f10.2.azurestaticapps.net"
 
-
-## Wireframes:
-
-### MiroBoard
-
-<img width="807" alt="Screen Shot 2022-10-30 at 2 15 19 AM" src="https://user-images.githubusercontent.com/97801601/198865296-fde610d5-5675-402e-9667-8e4ddcf8fda3.png">
-
-### Figma
-
-<img width="830" alt="Screen Shot 2022-10-30 at 2 35 24 AM" src="https://user-images.githubusercontent.com/97801601/198865843-25cf6bb5-6469-44e8-a342-d2ecb0647e1f.png">
-
-
 ### Description
 - TrashMe shows the user the list of thrown trash by students, categorizes the trash, and shows them the proper way to dispose of them.
 
@@ -78,3 +66,13 @@ Have you ever wondered whether you should throw your cupcake in a paper cup in t
 3) Deploying web application using Azure
 4) Coding in a collaborative manner using Git
 5 ) Trial and error in figuring out the first stages of the web app.
+
+## Wireframes:
+
+### MiroBoard
+
+<img width="807" alt="Screen Shot 2022-10-30 at 2 15 19 AM" src="https://user-images.githubusercontent.com/97801601/198865296-fde610d5-5675-402e-9667-8e4ddcf8fda3.png">
+
+### Figma
+
+<img width="830" alt="Screen Shot 2022-10-30 at 2 35 24 AM" src="https://user-images.githubusercontent.com/97801601/198865843-25cf6bb5-6469-44e8-a342-d2ecb0647e1f.png">
