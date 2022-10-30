@@ -3,8 +3,7 @@ import './home.css'
 import '../containers/App';
 import '../containers/App.css';
 import {Link} from 'react-router-dom';
-import Lottie, { LottiePlayer } from 'lottie-react';
-import { Player, Controls } from '@lottiefiles/react-lottie-player';
+
 
 const Home = () => {
   
