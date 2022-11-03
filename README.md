@@ -67,7 +67,7 @@ Have you ever wondered whether you should throw your cupcake in a paper cup in t
 2) Implementing a search bar
 3) Deploying web application using Azure
 4) Coding in a collaborative manner using Git
-5 ) Trial and error in figuring out the first stages of the web app.
+5) Trial and error in figuring out the first stages of the web app.
 
 ## Wireframes:
 
