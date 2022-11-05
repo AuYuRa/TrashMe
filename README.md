@@ -1,4 +1,4 @@
-# [TrashMe!]((https://green-stone-0f2dc3f10.2.azurestaticapps.net))
+# [TrashMe!](https://green-stone-0f2dc3f10.2.azurestaticapps.net)
 - (Winner of: "Best Use of Microsoft Cloud for Your Community" and "Microsoft Passport Challenge")
 
 <img src='http://g.recordit.co/xDNoUBkjpC.gif' title='Demo GIF' width='' alt='Demo GIF' /> 
