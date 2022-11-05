@@ -1,12 +1,11 @@
-# TrashMe!
+# [TrashMe!]((https://green-stone-0f2dc3f10.2.azurestaticapps.net))
 - (Winner of: "Best Use of Microsoft Cloud for Your Community" and "Microsoft Passport Challenge")
 
 <img src='http://g.recordit.co/xDNoUBkjpC.gif' title='Demo GIF' width='' alt='Demo GIF' /> 
 
 ### [Devpost](https://devpost.com/software/trashme)  
-
 ### [Presentation with Demo](https://youtu.be/-fl9imuj8JE)
-### [Web application link](https://green-stone-0f2dc3f10.2.azurestaticapps.net)
+
 
 ### Description
 - TrashMe shows the user the list of thrown trash by students, categorizes the trash, and shows them the proper way to dispose of them.
