@@ -10,7 +10,7 @@ Awarded ✨**Best Use of Microsoft Cloud for Your Community** ✨ in **TechToget
 
 
 ### Description
-- TrashMe shows the user the list of thrown trash by students, categorizes the trash, and shows them the proper way to dispose of them.
+**TrashMe** is a website that helps college students understand the trash items they usually throw away, and learn how to properly dispose the components based on categories. TrashMe is built using React.js, Javascript, HTML, CSS, deployed using Microsoft Azure, and based on the wireframes developed in Figma.
 
 ### Inspiration
 
@@ -49,7 +49,7 @@ Have you ever wondered whether you should throw your cupcake in a paper cup in t
 
 **We used the following technologies:**
 
-- React.js, Azure, Javascript, HTML/CSS, Figma
+- React.js, Javascript, HTML, CSS, Azure, Figma
 
 1) We hard-coded our own datasets required for the project by researching different governmental papers and databases.
 2) We took an online course on developing web applications using React as we had never used it before.
