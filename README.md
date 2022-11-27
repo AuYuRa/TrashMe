@@ -1,10 +1,12 @@
 # [TrashMe!](https://green-stone-0f2dc3f10.2.azurestaticapps.net)
-- (Winner of: "Best Use of Microsoft Cloud for Your Community" and "Microsoft Passport Challenge")
 
 <img src='http://g.recordit.co/xDNoUBkjpC.gif' title='Demo GIF' width='' alt='Demo GIF' /> 
 
-### [Devpost](https://devpost.com/software/trashme)  
-### [Presentation with Demo](https://youtu.be/-fl9imuj8JE)
+Awarded ✨**Best Use of Microsoft Cloud for Your Community** ✨ in **TechTogether Boston 2022** 🎉
+### 🔭 [Devpost](https://devpost.com/software/trashme)  
+### 🔭 [Presentation with Demo](https://youtu.be/-fl9imuj8JE)
+### 🔭 [Deployed website using Microsoft Azure](https://green-stone-0f2dc3f10.2.azurestaticapps.net)
+
 
 
 ### Description
