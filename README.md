@@ -8,7 +8,6 @@ Awarded ✨**Best Use of Microsoft Cloud for Your Community** ✨ in **TechToget
 ### 🔭 [Deployed website using Microsoft Azure](https://green-stone-0f2dc3f10.2.azurestaticapps.net)
 
 
-
 ### Description
 **TrashMe** is a website that helps college students understand the trash items they usually throw away, and learn how to properly dispose the components based on categories. TrashMe is built using React.js, Javascript, HTML, CSS, deployed using Microsoft Azure, and based on the wireframes developed in Figma.
 
